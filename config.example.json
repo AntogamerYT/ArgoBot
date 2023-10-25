@@ -1,0 +1,13 @@
+{
+    "prefix": "!",
+    "argo": {
+        "codiceScuola": "AB12345",
+        "username": "username",
+        "password": "password",
+        "//": "Il nome e il cognome sono necessari per prendere i dati del profilo giusto",
+        "nome": "Nome",
+        "cognome": "Cognome",
+        "//": "Il formato può essere YYYYMMDD o DDMMYYYY",
+        "formatoData": "DDMMYYYY"
+    }
+}
